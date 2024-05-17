@@ -8,15 +8,15 @@
 <br>
 
 
-- 🔭 I’m currently working on **Full-Stack AI projects**
+- I’m currently working on **Full-Stack AI projects**
 
-- 🌱 I’m currently learning **Machine Learning and Data Analytics**
+- I’m currently learning **Machine Learning and Data Analytics**
 
-- 🤝 I’m looking for help with **Machine Learning and Deep Learning**
+- I’m looking for Collaboration with **Machine Learning and Deep Learning Projects**
 
-- 💬 Ask me about **Deep Learning**
+- Ask me about **Deep Learning**
 
-- 📫 How to reach me **ajafarsadiq2002@gmail.com**
+- How to reach me **ajafarsadiq2002@gmail.com**
 
 <!-- 📄 Know about my experiences : <a href="https://drive.google.com/file/d/1HWKigGgG6Z89BWqGg5N3ITaJuO49p6tc/view?usp=sharing" target="blank">Resume</a>-->
   
