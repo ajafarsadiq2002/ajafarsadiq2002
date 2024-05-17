@@ -1,5 +1,5 @@
 
-<h1 align="center">Jafar Sadiq A</a></h1> 
+<!--<h1 align="center">Jafar Sadiq A</a></h1>--> 
 
 
 <img src="https://i.postimg.cc/t4x37Q7y/Black-Modern-Personal-Linked-In-Banner.png" />
