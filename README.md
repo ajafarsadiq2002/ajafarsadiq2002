@@ -34,7 +34,7 @@
 <h3 align="left">Languages, Libraries and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,java,cpp,html,css,js,react,git" />
+    <img src="https://skillicons.dev/icons?i=py,c,java,cpp,html,css,js,react,git,anaconda" />
   </a>
 </p>
 
