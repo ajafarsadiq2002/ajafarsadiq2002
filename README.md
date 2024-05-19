@@ -7,7 +7,7 @@
 
 <br>
 
-<img align="right" alt="Coding" width="300" src="https://i.postimg.cc/8c7BZDZN/coder.jpg">
+<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/8c7BZDZN/coder.jpg">
 
 - I’m currently working on **Full-Stack AI projects**
 
