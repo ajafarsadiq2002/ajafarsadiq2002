@@ -7,7 +7,7 @@
 
 <br>
 
-
+<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/149442221/Vector-illustration-of-a-man-working-on-the-laptop/modules/843998599">
 - I’m currently working on **Full-Stack AI projects**
 
 - I’m currently learning **Machine Learning and Data Analytics**
