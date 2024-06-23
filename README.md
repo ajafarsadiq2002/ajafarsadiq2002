@@ -45,7 +45,7 @@
 </p>
 
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajafarsadiq2002&label=Profile%20views&color=0e75b6&style=flat" alt="ajafarsadiq2002" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajafarsadiq2002&label=Profile%20views&color=0e75b6&style=flat" alt="ajafarsadiq2002" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajafarsadiq2002&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="ajafarsadiq2002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajafarsadiq2002&show_icons=true&locale=en&theme=blue-green" alt="ajafarsadiq2002" /></p>
