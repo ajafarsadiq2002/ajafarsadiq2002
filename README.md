@@ -50,6 +50,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajafarsadiq2002&show_icons=true&locale=en&theme=blue-green" alt="ajafarsadiq2002" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajafarsadiq2002&" alt="ajafarsadiq2002" /></p>
+
 [![Jafar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajafarsadiq2002&bg_color=000000&title_color=538cc6&line=00cc00&point=538cc6&theme=github-compact)](https://github.com/ajafarsadiq2002/github-readme-activity-graph)
 
 
