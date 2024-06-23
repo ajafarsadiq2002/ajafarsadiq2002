@@ -3,7 +3,7 @@
 
 
 <img src="https://i.postimg.cc/t4x37Q7y/Black-Modern-Personal-Linked-In-Banner.png" />
-<h3 align="center">Full Stack AI Developer</h3>
+<h3 align="center">Full Stack ML Engineer</h3>
 
 <br>
 
